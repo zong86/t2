@@ -1,5 +1,0 @@
-<?php
-//sdfklsjdklfl
-echo time();
-
-?>
